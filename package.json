@@ -9,7 +9,14 @@
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.0",
     "gulp-ruby-sass": "^2.0.6",
-    "jshint": "^2.9.1"
+    "jshint": "^2.9.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-ie-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.8",
+    "karma-opera-launcher": "^0.3.0",
+    "karma-safari-launcher": "^0.1.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
